@@ -46,5 +46,5 @@ Transitioning from a software background to cybersecurity.
 I’m passionate about defending systems, analyzing threats, and continuous learning.
 
 📍 Malaysia  
-📧 [your.email@gmail.com]  
-🌐 [GitHub Profile](https://github.com/yourusername)
+📧 [exabdulbari@gmail.com]  
+🌐 [GitHub Profile](https://github.com/exabdulbari)
