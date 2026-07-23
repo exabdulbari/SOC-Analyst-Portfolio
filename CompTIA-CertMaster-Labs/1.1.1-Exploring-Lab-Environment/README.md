@@ -77,7 +77,8 @@ Before investigating security incidents, SOC analysts must understand the system
 
 ### Successful Completion
 
-![Completed](screenshots/completed.png)
+![Completed](screenshots/completed1.png)
+![Completed](screenshots/completed2.png)
 
 ---
 
